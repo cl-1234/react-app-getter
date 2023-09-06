@@ -1,0 +1,20 @@
+{
+  "name": "react-app-getter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "react-app-getter": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.8",
+    "inquirer": "^8.2.6",
+    "ora": "5"
+  }
+}
